@@ -427,11 +427,6 @@ export const skillsByCategory = [
     category: 'Finance & Quantitative Markets',
     skills: [
       'Quantitative Analysis',
-      'Pairs Trading & Mean Reversion',
-      'Rolling Cointegration (ADF test)',
-      'Dynamic OLS Hedge Ratios',
-      'Valuation & Financial Modelling (DCF)',
-      'Comparable Company Analysis (Comps)',
       'Portfolio Strategy & Risk Management',
       'Bloomberg Terminal (BMC)',
     ],
@@ -441,12 +436,7 @@ export const skillsByCategory = [
     skills: [
       'Python (Pandas, NumPy, Statsmodels, Scikit-Learn)',
       'R Language (Statistical Regression)',
-      'TypeScript / JavaScript',
-      'React & Tailwind CSS',
-      'ESP32 Microcontroller & C++',
       'Hardware Sensors (Ultrasonic / PWM)',
-      'Git & GitHub Workflow',
-      'LLM Prompt Architecture',
     ],
   },
   {
@@ -454,9 +444,6 @@ export const skillsByCategory = [
     skills: [
       'Sector Leadership (Tech & Consumer)',
       'Go-to-Market Strategy (GTM)',
-      'Hackathon / Startathon Organization',
-      'Stock Pitch Delivery',
-      'Cross-functional Team Leadership',
     ],
   },
 ];
