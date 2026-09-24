@@ -444,6 +444,7 @@ export const skillsByCategory = [
     skills: [
       'Sector Leadership (Tech & Consumer)',
       'Go-to-Market Strategy (GTM)',
+      'Stock Pitch Delivery',      
     ],
   },
 ];
