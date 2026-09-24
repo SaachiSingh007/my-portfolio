@@ -98,7 +98,7 @@ export default function Honors() {
         <div className="mt-12 rounded-2xl border border-base-750 bg-base-900/70 p-6 sm:p-8">
           <h3 className="flex items-center gap-2 text-lg font-bold text-white mb-6">
             <Sparkles className="text-market-400" size={18} />
-            <span>Core Competency Matrix</span>
+            <span>Skills</span>
           </h3>
 
           <div className="grid gap-6 md:grid-cols-3">
